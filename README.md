@@ -72,7 +72,7 @@ The model lives in [`archs/nafnet.py`](archs/nafnet.py):
 Tested with CUDA 12.4, Python 3.10, PyTorch ≥ 2.3.1.
 
 ```bash
-git clone https://github.com/<your-username>/Efficient-Real-World-Deblurring.git
+git clone https://github.com/ThuanLy-0092/Efficient-Real-World-Deblurring.git
 cd Efficient-Real-World-Deblurring
 
 python -m venv venv_rsblur
